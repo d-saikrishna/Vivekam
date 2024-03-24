@@ -7,7 +7,7 @@ import requests
 from requests_oauthlib import OAuth1
 
 
-dir = "/home/chaoticneuron/SamvidhanBot"
+dir = "/home/chaoticneuron/Vivekam"
 dir = os.getcwd()
 def tweet_viveka_wisdom():
 
