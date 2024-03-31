@@ -1,0 +1,39 @@
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/venv/lib/python3.11/site-packages/pygsheets/worksheet.py:1554: UserWarning: At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.
+  warnings.warn('At least one column name in the data frame is an empty string. If this is a concern, please specify include_tailing_empty=False and/or ensure that each column containing data has a name.')
+/home/chaoticneuron/Vivekam/Media/swami0.webp
+/home/chaoticneuron/Vivekam/Media/swami8.jpg
+/home/chaoticneuron/Vivekam/Media/swami2.webp
+/home/chaoticneuron/Vivekam/Media/swami4.jpeg
+/home/chaoticneuron/Vivekam/Media/swami11.png
+/home/chaoticneuron/Vivekam/Media/swami1.jpg
+/home/chaoticneuron/Vivekam/Media/swami13.webp
+/home/chaoticneuron/Vivekam/Media/swami2.webp
+/home/chaoticneuron/Vivekam/Media/swami0.webp
+/home/chaoticneuron/Vivekam/Media/swami12.avif
+Traceback (most recent call last):
+  File "/home/chaoticneuron/Vivekam/vivekam.py", line 71, in <module>
+    run()
+  File "/home/chaoticneuron/Vivekam/vivekam.py", line 67, in run
+    tweet_viveka_wisdom()
+  File "/home/chaoticneuron/Vivekam/vivekam.py", line 48, in tweet_viveka_wisdom
+    media_id = media_response.json()['media_id_string']
+               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'media_id_string'
