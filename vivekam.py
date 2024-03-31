@@ -42,7 +42,6 @@ def tweet_viveka_wisdom():
     tweet = str(df['Tweet'][n])
 
     image_path = dir+r'/Media/'+author_image
-    print(image_path)
     files = {'media': (author_image+'.jpg', open(image_path, 'rb'))}
     media_response = requests.post(media_upload_url, auth=oauth, files=files)
     media_id = media_response.json()['media_id_string']
